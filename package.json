@@ -7,9 +7,11 @@
     "esparse": "./bin/esparse.js",
     "esvalidate": "./bin/esvalidate.js"
   },
-  "version": "3.5.0",
+  "version": "3.5.2",
   "files": [
     "bin",
+    "lib.es5",
+    "lib.es2015",
     "dist/esprima.js"
   ],
   "engines": {
