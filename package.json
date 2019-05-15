@@ -1,5 +1,5 @@
 {
-  "name": "esprima",
+  "name": "@publica/esprima",
   "description": "ECMAScript parsing infrastructure for multipurpose analysis",
   "homepage": "http://esprima.org",
   "main": "dist/esprima.js",
@@ -10,7 +10,8 @@
   "version": "4.0.1",
   "files": [
     "bin",
-    "dist/esprima.js"
+    "dist/esprima.js",
+    "src"
   ],
   "engines": {
     "node": ">=4"
